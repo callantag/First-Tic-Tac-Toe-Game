@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Game
+# Noughts-and-Crosses
 A tic-tac-toe created using Python.
 To start the game:
 1) git clone https://github.com/callantag/Tic-Tac-Toe-Game.git
