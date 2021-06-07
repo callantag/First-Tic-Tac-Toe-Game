@@ -1,2 +1,5 @@
-# First-Tic-Tac-Toe-Game
-My first mini project while learning my first ever programming language: Python. I expect to improve my codes here over time and get used to git as well.
+A tic-tac-toe created using Python.
+To start the game:
+1) git clone https://github.com/callantag/Tic-Tac-Toe-Game.git
+2) cd into folder
+3) python Tic-Tac-Toe_gracedraft.py
